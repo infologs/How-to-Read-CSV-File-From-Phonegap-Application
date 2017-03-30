@@ -1,4 +1,4 @@
-# How-to-Read-CSV-File-From-Phonegap-Application
+# How to Read CSV File From Phonegap Application
 
 This video will help you to understand to read the CSV file from different location from Phonegap Application.
 
