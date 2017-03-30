@@ -8,12 +8,6 @@ This video will help you to understand to read the CSV file from different locat
 
 ---------------------------------------------------
 
-Follow us on social media
-
-https://facebook.com/technewsoninfologs/
-
-https://twitter.com/webboostings/
-
 Get more video turorials on
 
 http://infologs.in/
@@ -21,6 +15,13 @@ http://infologs.in/
 https://youtube.com/webboostings/
 
 http://webboostings.blogspot.in/
+
+Follow us on social media
+
+https://facebook.com/technewsoninfologs/
+
+https://twitter.com/webboostings/
+
 
 Thanks
 
